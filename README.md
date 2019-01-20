@@ -1,0 +1,2 @@
+The goal of this project was to build a content based recommender system. I have partitioned this project in 3 jupyter notebooks. As the name indicates 'movie scraping.ipynb' deals with the method used for web scraping. 'Content Based Recommender System.ipynb' talks about building a simple content-based movie recommender system. 'Last 10 years of Cinema.ipynb' deals with data cleaning and interesting movie facts that I stumbled upon while working on content based recommender system.
+
